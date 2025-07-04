@@ -39,15 +39,14 @@ F1 Score: `0.88`
 📦 Folder Structure
 
 fraud-threshold-tuning/
-  README.md
-  requirements.txt
-  notebooks/
-    fraud_threshold_tuning.ipynb
-  images/
-    threshold_plot.png
-  data/
-    creditcard.csv (download manually from Kaggle and place here)
-
+  README.md                        → Project overview and explanation  
+  requirements.txt                → Python libraries needed to run the notebook  
+  notebooks/                      → Folder containing the main analysis notebook
+    fraud_threshold_tuning.ipynb → Jupyter notebook with all code and results  
+  images/                         → Contains visual output from the model  
+    threshold_plot.png           → Plot of threshold vs. precision, recall, F1  
+  data/                           → You need to manually download the dataset  
+    creditcard.csv               → Download this from Kaggle and place here
 
 ▶️ To Run This Project
 
