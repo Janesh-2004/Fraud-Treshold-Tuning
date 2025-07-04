@@ -39,15 +39,15 @@ F1 Score: `0.88`
 📦 Folder Structure
 
 fraud-threshold-tuning/
-│
-├── README.md
-├── requirements.txt
-├── notebooks/
-│   └── fraud_threshold_tuning.ipynb
-├── images/
-│   └── threshold_plot.png
-├── data/
-    └── (You must manually download creditcard.csv from Kaggle)
+  README.md
+  requirements.txt
+  notebooks/
+    fraud_threshold_tuning.ipynb
+  images/
+    threshold_plot.png
+  data/
+    creditcard.csv (download manually from Kaggle and place here)
+
 
 ▶️ To Run This Project
 
